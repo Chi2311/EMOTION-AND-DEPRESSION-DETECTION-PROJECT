@@ -1,0 +1,11 @@
+📊 BÁO CÁO KẾT QUẢ FUSION 3 MÔ HÌNH
+========================================
+              precision    recall  f1-score   support
+
+    Tích cực       0.96      0.83      0.89        30
+    Tiêu cực       0.91      0.97      0.94        30
+  Trung tính       0.84      0.90      0.87        30
+
+    accuracy                           0.90        90
+   macro avg       0.90      0.90      0.90        90
+weighted avg       0.90      0.90      0.90        90
